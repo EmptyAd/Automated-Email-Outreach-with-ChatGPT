@@ -47,7 +47,7 @@ Ensure you have the following installed:
 
 3. **Run the Script**
    ```bash
-   python email_automation.py
+   python main.py
    ```
 
 ## How It Works
