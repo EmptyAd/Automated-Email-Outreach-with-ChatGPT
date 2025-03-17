@@ -29,8 +29,8 @@ Ensure you have the following installed:
 ## Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/email-automation.git
-   cd email-automation
+   git clone https://github.com/EmptyAd/Automated-Email-Outreach-with-ChatGPT.git
+   cd Automated-Email-Outreach-with-ChatGPT
    ```
 
 2. **Set Up Environment Variables**
